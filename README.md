@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Georgios%20Agrafiotis&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=16&descAlignY=51" />
 
-<!-- Dynamic Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Agentic+AI+%E2%80%A2+LangGraph+%E2%80%A2+RAG+Systems;Document+Intelligence+%E2%80%A2+FastAPI;From+Prototype+to+Production+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Social Badges with Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/giorgos-agrafiotis-7b580020b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,7 +18,6 @@
   </a>
 </p>
 
-<!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=balalaika-tools&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/balalaika-tools?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
@@ -137,64 +133,49 @@ class AIEngineer:
 
 ---
 
-## 🚀 Project Showcase
+## 🚀 Side Projects & Experiments
 
 <div align="center">
 
-### *Building the Future of AI, One Repo at a Time*
-
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/balalaika-tools/Sheet-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balalaika-tools&repo=Sheet-Agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-<br/>
-<sub>🤖 <b>AI-Powered Spreadsheet Agent</b> - Intelligent data manipulation</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/balalaika-tools/langraph-ecommerce-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balalaika-tools&repo=langraph-ecommerce-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-<br/>
-<sub>🛒 <b>E-Commerce Agent (LangGraph)</b> - Multi-agent shopping assistant</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/balalaika-tools/Vertex_Schema_GeneratorV2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balalaika-tools&repo=Vertex_Schema_GeneratorV2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-<br/>
-<sub>📋 <b>Vertex AI Schema Generator</b> - Automated schema creation for GCP</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/balalaika-tools/Async-Inference-Gemini">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balalaika-tools&repo=Async-Inference-Gemini&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-<br/>
-<sub>⚡ <b>Async Gemini Inference</b> - High-performance async LLM calls</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/balalaika-tools/IDS_Inference">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balalaika-tools&repo=IDS_Inference&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-<br/>
-<sub>🛡️ <b>Intrusion Detection System</b> - ML-powered network security</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/balalaika-tools/GFlowMeter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balalaika-tools&repo=GFlowMeter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-<br/>
-<sub>📊 <b>Network Flow Meter</b> - Real-time traffic analysis</sub>
-</td>
-</tr>
-</table>
+*Things I build when I should be sleeping*
 
 </div>
+
+### 🤖 **Sheet-Agent** 
+**AI-powered spreadsheet manipulation agent** | [View Repository →](https://github.com/balalaika-tools/Sheet-Agent)
+- 📊 Intelligent data processing and analysis
+- 🔄 Natural language to spreadsheet operations
+- 🎯 Automated data transformations
+
+### 🛒 **LangGraph E-Commerce Agent**
+**Multi-agent shopping assistant with LangGraph** | [View Repository →](https://github.com/balalaika-tools/langraph-ecommerce-agent)
+- 🤝 Coordinated multi-agent system
+- 🛍️ Product search, comparison & recommendations
+- 💬 Conversational shopping experience
+
+### 📋 **Vertex Schema Generator V2**
+**Automated schema generation for GCP Vertex AI** | [View Repository →](https://github.com/balalaika-tools/Vertex_Schema_GeneratorV2)
+- 🏗️ Dynamic schema creation from data
+- ☁️ GCP Vertex AI integration
+- ⚡ Streamlined ML pipeline setup
+
+### ⚡ **Async Inference Gemini**
+**High-performance async LLM inference** | [View Repository →](https://github.com/balalaika-tools/Async-Inference-Gemini)
+- 🚀 Concurrent request handling
+- 📈 10x throughput improvement
+- 🔧 Production-ready async patterns
+
+### 🛡️ **IDS Inference**
+**ML-powered intrusion detection system** | [View Repository →](https://github.com/balalaika-tools/IDS_Inference)
+- 🔍 Real-time network threat detection
+- 🧠 Deep learning models for anomaly detection
+- 📊 Network traffic analysis
+
+### 📊 **GFlowMeter**
+**Network flow monitoring and analysis** | [View Repository →](https://github.com/balalaika-tools/GFlowMeter)
+- 📡 Real-time traffic metrics
+- 📈 Flow-based network analytics
+- 🎯 Performance monitoring tools
 
 ---
 
@@ -268,37 +249,20 @@ class AIEngineer:
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=balalaika-tools&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balalaika-tools&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=balalaika-tools&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💭 Words of Wisdom
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=balalaika-tools&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+### *"I don't always test my code, but when I do, I do it in production"*
 
-</div>
+**— Ancient Greek Proverb, probably Aristotle debugging his first neural network**
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balalaika-tools&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<sub>⚠️ Disclaimer: Aristotle did not actually write neural networks. Or did he? 🤔</sub>
 
 </div>
 
