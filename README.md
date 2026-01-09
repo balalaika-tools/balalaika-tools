@@ -119,7 +119,7 @@ class AIEngineer:
 <sub>Automated testing & deployment</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/azure.png" width="64"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64"/><br/>
 <b>Cloud Deployment</b><br/>
 <sub>Azure Container Apps</sub>
 </td>
