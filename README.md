@@ -261,10 +261,16 @@ class AIEngineer:
 
 *Open to collaborations, consulting opportunities, and interesting AI projects*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="#" onclick="return false;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
+    width="100%"
+  />
+</a>
 
 **⭐ If you like my work, consider starring my repositories!**
 
-<sub>Last updated: January 2026 | Made with ❤️ and lots of ☕</sub>
+<sub>Last updated: December 2025 | Made with ❤️ and lots of ☕</sub>
 
 </div>
+
